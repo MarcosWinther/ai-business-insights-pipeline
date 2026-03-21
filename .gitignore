@@ -8,16 +8,6 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Dados grandes (opcional)
-data/raw/*
-data/processed/*
-data/outputs/*
-
-# Exceções (se quiser manter exemplos)
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!data/outputs/.gitkeep
-
 # Secrets
 *.key
 *.json
